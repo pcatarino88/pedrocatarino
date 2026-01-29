@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+## **Pedro Catarino — Project Portfolio**
 
-# Run and deploy your AI Studio app
+This repository hosts the source code for my **personal project portfolio website**.
 
-This contains everything you need to run your app locally.
+The site acts as a **central hub** with brief descriptions and direct links to some of my data related projects.
 
-View your app in AI Studio: https://ai.studio/apps/drive/14SJmN1tP_6RUP4FTr1v7ojTL0zy69Ouy
+🔗 Live site:
+https://pcatarino88.github.io/pedrocatarino/
 
-## Run Locally
+### **Tech**
 
-**Prerequisites:**  Node.js
+- React + TypeScript
 
+- Vite
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Tailwind CSS
+
+- Deployed via GitHub Pages (GitHub Actions)
+
+### **Notes**
+
+This repository exists only to host and deploy the portfolio website.
+Individual projects are maintained in their own repositories and linked from the site.

@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
           © {new Date().getFullYear()} Pedro Catarino. All rights reserved.
         </p>
         <p className="text-sm">
-          Built with React, Tailwind & Google Gemini
+          Built with React, Vite and Tailwind
         </p>
       </div>
     </footer>
