@@ -14,7 +14,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({ project }) => {
       <div className="relative h-48 overflow-hidden bg-slate-800">
         {!imgError ? (
           <img 
-            src={project.imageUrl} 
+            src={`${import.meta.env.BASE_URL}${project.imageUrl.replace(/^\//, "")}`} 
             alt={project.title} 
             onError={() => setImgError(true)}
             className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500 opacity-90 group-hover:opacity-100"
