@@ -25,8 +25,8 @@ const About: React.FC = () => {
                   <Compass className="w-6 h-6" />
                 </div>
                 <div>
-                  <h5 className="font-semibold text-white">Strategy</h5>
-                  <p className="text-sm text-slate-400">Customer Experience, Strategic Consultancy (Ex-McKinsey)</p>
+                  <h5 className="font-semibold text-white">Business Strategy</h5>
+                  <p className="text-sm text-slate-400">Customer Experience, Marketing, Consultancy (Ex-McKinsey)</p>
                 </div>
               </div>
               <div className="flex items-start gap-3 group">
@@ -34,8 +34,8 @@ const About: React.FC = () => {
                   <Brain className="w-6 h-6" />
                 </div>
                 <div>
-                  <h5 className="font-semibold text-white">AI & ML</h5>
-                  <p className="text-sm text-slate-400">Predictive Modeling, NLP, LLMs</p>
+                  <h5 className="font-semibold text-white">Machine Learning</h5>
+                  <p className="text-sm text-slate-400">Python, Predictive Modeling (Regression & Classification), NLP, LLM</p>
                 </div>
               </div>
               <div className="flex items-start gap-3 group">
@@ -43,8 +43,8 @@ const About: React.FC = () => {
                   <Code className="w-6 h-6" />
                 </div>
                 <div>
-                  <h5 className="font-semibold text-white">Analytics</h5>
-                  <p className="text-sm text-slate-400">Business Intelligence, SQL, Python</p>
+                  <h5 className="font-semibold text-white">Business Intelligence</h5>
+                  <p className="text-sm text-slate-400">SQL, PowerBI, Power Query, Data Visualization</p>
                 </div>
               </div>
               <div className="flex items-start gap-3 group">
@@ -52,8 +52,8 @@ const About: React.FC = () => {
                   <Database className="w-6 h-6" />
                 </div>
                 <div>
-                  <h5 className="font-semibold text-white">Engineering</h5>
-                  <p className="text-sm text-slate-400">Cloud (AWS), Databricks, Pipelines</p>
+                  <h5 className="font-semibold text-white">Data Engineering</h5>
+                  <p className="text-sm text-slate-400">Pipelines, Workflow Automation, Databricks, Cloud (AWS & Azure)</p>
                 </div>
               </div>
             </div>
