@@ -40,7 +40,8 @@ export const PROJECTS: Project[] = [
     description: "An AI-powered running coach that connects with my Strava account, tracks my runs, gives me insights about my evolution and provides me with personalized tips to continue to improve my pace. It interacts with me via email and also generates a report in PowerBI.",
     tags: ['Workflow Automation', 'AI Agent', 'N8N', 'SQL'],
     imageUrl: '/images/running_coach.jpg',
-    // link: to be added 
+    link: 'https://www.canva.com/design/DAG_4pui-3c/XGS0Agpa-nKebxMNCH0VQw/view?utm_content=DAG_4pui-3c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3b3329d370',
+    ctaLabel: 'Learn More'
   }
 ];
 

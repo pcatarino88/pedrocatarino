@@ -56,7 +56,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({ project }) => {
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center w-full gap-2 bg-slate-800 text-white border border-slate-700 px-4 py-3 rounded-xl font-medium transition-all hover:bg-cyan-600 hover:border-cyan-600 hover:text-white"
             >
-              Launch App
+              {project.ctaLabel ?? 'Launch App'}
               <ExternalLink className="w-4 h-4" />
             </a>
           ) : (

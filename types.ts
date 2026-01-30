@@ -5,6 +5,7 @@ export interface Project {
   tags: string[];
   imageUrl: string;
   link?: string;
+  ctaLabel?: string;
 }
 
 export interface SocialLink {
