@@ -28,11 +28,11 @@ const Hero: React.FC = () => {
             <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-cyan-400 opacity-75"></span>
             <span className="relative inline-flex rounded-full h-2 w-2 bg-cyan-500"></span>
           </span>
-          Open to New Opportunities
+          Personal Project Portfolio
         </div>
 
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 tracking-tight leading-tight">
-          Turning <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">Data</span> into Strategy <br className="hidden lg:block" /> and <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">Strategy</span> into Measurable <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">Results.</span>
+          Turning <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">Data</span> into Strategy <br className="hidden lg:block" /> and <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">Strategy</span> into <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">Results.</span>
         </h1>
         <p className="text-xl md:text-2xl text-slate-400 font-light mb-10 max-w-2xl mx-auto leading-relaxed">
           {HERO_SUBTITLE}

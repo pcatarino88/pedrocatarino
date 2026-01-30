@@ -3,7 +3,7 @@ import { Github, Linkedin, Mail } from 'lucide-react';
 import { Project, SocialLink } from './types';
 
 export const HERO_TITLE = "Turning Data into Strategy and Strategy into Results.";
-export const HERO_SUBTITLE = "Hi there! My name is Pedro Catarino and this is my personal portfolio where I share some selected projects i did to explore my passion for data.";
+export const HERO_SUBTITLE = "Hi there! My name is Pedro and this is my personal portfolio where I share selected projects i did to explore my passion for data.";
 
 export const ABOUT_TEXT_PARAGRAPH_1 = `During my career I've held several management roles where I've developed my business and strategic thinking. Along the way, I developed a strong passion for data. Curiosity and a desire to learn naturally led me into the fascinating world of Data Science, Machine Learning and (how not) AI.`;
 
